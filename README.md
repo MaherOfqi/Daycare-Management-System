@@ -28,7 +28,7 @@ This project was developed as part of **CS290: Software Engineering** at Al-Imam
 - Dr. Yaseen Mohammed Daadaa
 
 **Team Members:**
-- Maher Mohammed Ofqi (This repository)
+- Maher Mohammed Ofqi
 - Abdulelah Anwar Alghamdi
 - Abdulmalik Ibrahim Aljarallah
 - Abdullah Saad Alomair
