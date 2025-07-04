@@ -24,7 +24,7 @@ This repository highlights my personal contributions to the team project:
 ## 📌 Credits
 This project was developed as part of **CS290: Software Engineering** at Al-Imam Mohammad Ibn Saud Islamic University.  
 
-**Instructor:**  
+**Instructor:**
 - Dr. Yaseen Mohammed Daadaa
 
 **Team Members:**
